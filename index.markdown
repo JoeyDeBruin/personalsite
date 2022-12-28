@@ -9,7 +9,5 @@ Generally speaking, I care about how humans build things, together, via networks
 
 On that note, the easiest way to reach me is on [Twitter][mytwitter] or [Telegram][mytelegram]. Many of the most rewarding moments and collaborations in my life have come from cold connections based on shared interests, so please do reach out!
 
-I send ~ one update every month, either an original essay or a collection of stuff I’ve found. Subscribe here if you’d like to follow along.
-
 [mytwitter]: http://twitter.com/joey_Debruin
 [mytelegram]: http://t.me/jdebr
