@@ -23,7 +23,7 @@ email: joeydebruin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Joey DeBruin's personal site
 baseurl: / # the subpath of your site, e.g. /blog
-url: joeydebruin.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: joeydebruin.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: joey_debruin
 github_username:  JoeyDeBruin
 
