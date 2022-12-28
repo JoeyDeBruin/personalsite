@@ -2,7 +2,7 @@
 layout: post
 title: "This is a post"
 date: 2022-12-28 09:09:06 -0700
-categories: other
+categories: posts
 ---
 
 This will be a short post with some interesting stuf in it
