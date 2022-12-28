@@ -19,23 +19,28 @@
             </a>
             <p class="header-subscribe-text">I send ~ one update every month, either an original essay or a collection of stuff I’ve found. <a href="http://flyingpenguins.io" target="_blank">Subscribe here</a> if you’d like to follow along.</p>
           </div>
-        {{ content }}
+        <div class="home-content">{{ content }}</div>
       </section>
       <div class="flex-container">
-        <div class="index-lists"><h3 class="index-lists-header">ARTICLES</h3></div>
+        <div class="index-lists"><h3 class="index-lists-header">ARTICLES</h3>
+        <ul class ="post-list">
+            <li>
+              <a href="https://www.flyingpenguins.io/p/frying-eggs-as-the-world-burns"><p class="blacklink" >Frying Eggs as the World Burns</p></a>
+            </li>
+        </ul></div>
         <div class="index-lists"><h3 class="index-lists-header">IDEA GARDENING</h3>
-          <ul>
+          <ul class ="post-list">
           {% for post in site.categories.ideagardening %}
             <li>
-              <a href="{{ post.url }}">{{ post.title }}</a>
+              <a href="{{ post.url }}"><p class="blacklink" >{{ post.title }}</p></a>
             </li>
           {% endfor %}
         </ul></div>
         <div class="index-lists"><h3 class="index-lists-header">OTHER</h3>
-            <ul>
-            {% for post in site.categories.jekylll %}
+            <ul class ="post-list">
+            {% for post in site.categories.other %}
               <li>
-                <a href="{{ post.url }}">{{ post.title }}</a>
+                <a href="{{ post.url }}"><p class="blacklink" >{{ post.title }}</p></a>
               </li>
             {% endfor %}
           </ul></div>

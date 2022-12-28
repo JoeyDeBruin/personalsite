@@ -25,7 +25,9 @@ header {
 .site-header {
   width: 100%;
   margin-top: 2rem;
+  margin-bottom: 1rem;
   border-bottom: 1px solid #1e1e1e;
+  padding-bottom: 10px;
 }
 
 h1,
@@ -59,12 +61,15 @@ a {
 }
 
 .index-main {
-  border-bottom: 1px solid #000000;
+  margin-top: 2rem;
+  padding-bottom: 10px;
 }
 
 .flex-container {
   display: flex;
   flex-wrap: wrap;
+  padding-top: 2rem;
+  border-top: 1px solid #000000;
 }
 
 .index-lists {
@@ -81,4 +86,23 @@ a {
 .header-subscribe-text {
     font-style: italic;
     font-size: 12px;
+    padding-top:5px;
+}
+
+.home-content {
+  padding-top: 10px;
+}
+
+ul {
+  list-style: none;
+}
+
+.blacklink {
+  color: #1e1e1e;
+  text-decoration: dashed;
+  text-decoration-color: #8053ff;
+}
+
+.post-list {
+  padding-top: 10px;
 }
