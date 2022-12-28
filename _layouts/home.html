@@ -20,6 +20,18 @@
           </div>
         {{ content }}
       </section>
+      <div class="flex-container">
+        <div class="index-lists"><h3 class="index-lists-header">ESSAYS</h3></div>
+        <div class="index-lists"><h3 class="index-lists-header">IDEA GARDENING</h3></div>
+        <div class="index-lists"><h3 class="index-lists-header">POSTS</h3>
+            <ul>
+            {% for post in site.posts %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+              </li>
+            {% endfor %}
+          </ul></div>
+    </div>
     </div>
   </body>
 </html>
