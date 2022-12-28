@@ -1,20 +1,79 @@
 ---
 ---
-.neWcontainer { width: 90%; max-width: 1000px; margin: 0 auto; }
 
+.neWcontainer {
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
 
 @import "{{ site.theme }}";
 
-header h1:before { content: ""; font-size: 24px; }
+header h1:before {
+  content: "";
+  font-size: 24px;
+}
 
-header { background: rgba(0, 0, 0, 0.1); width: 100%; border-bottom: 1px solid #000000; padding: 20px 0; margin: 0 0 40px 0; }
+header {
+  background: rgba(0, 0, 0, 0.1);
+  width: 100%;
+  border-bottom: 1px solid #000000;
+  padding: 20px 0;
+  margin: 0 0 40px 0;
+}
 
-.site-header {width: 100%; margin-top: 2rem; border-bottom: 1px solid #1e1e1e;}
+.site-header {
+  width: 100%;
+  margin-top: 2rem;
+  border-bottom: 1px solid #1e1e1e;
+}
 
-h1, h2, h3, h4, h5, h6 { font-weight: normal; font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace; color: #000000; letter-spacing: -0.03em; text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(181, 232, 83, 0.1), 0 0 10px rgba(181, 232, 83, 0.1); }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal,
+    monospace;
+  color: #000000;
+  letter-spacing: -0.03em;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(181, 232, 83, 0.1),
+    0 0 10px rgba(181, 232, 83, 0.1);
+}
 
-.body { margin: 0; padding: 0; background: #ffffff 0 0; color: #1e1e1e; font-size: 16px; line-height: 1.5; font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace; }
+.body {
+  margin: 0;
+  padding: 0;
+  background: #ffffff 0 0;
+  color: #1e1e1e;
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal,
+    monospace;
+}
 
-a { color: #8053FF;}
+a {
+  color: #8053ff;
+}
 
+.index-main {
+  border-bottom: 1px solid #000000;
+}
 
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.index-lists {
+  flex: 1;
+  min-width: 200px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.index-lists-header {
+  color: #8053ff;
+}
