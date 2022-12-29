@@ -2900,7 +2900,7 @@ a { color: #8053ff; }
 
 .flex-container { display: flex; flex-wrap: wrap; padding-top: 2rem; border-top: 1px solid #000000; }
 
-.index-lists { flex: 1; min-width: 200px; margin-right: 10px; margin-bottom: 10px; }
+.index-lists { flex: 1; min-width: 200px; margin-right: 20px; margin-bottom: 10px; }
 
 .index-lists-header { color: #8053ff; }
 

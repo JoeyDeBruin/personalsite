@@ -5,4 +5,6 @@ date: 2022-12-28 14:09:06 -0700
 categories: ideagardening
 ---
 
-Some of my favorite books/articles will go here
+-- [On Crypto](/posts/2022/12/29/crypto-reading-list.html)
+
+-- [On peer production/networked work](/posts/2022/12/29/networked-work-reading-list.html)
