@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Peer production/networked work reading list"
+title: "Future of work reading list"
 date: 2022-12-29 13:09:06 -0700
 categories: posts
 ---
