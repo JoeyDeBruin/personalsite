@@ -8,7 +8,7 @@ permalink: /about/
 
 Although at this point I've spent more time in tech startups than in neuroscience labs, I still see myself as a scientist at heart — I am interested in understanding systems, how they work, and how to change them.
 
-Currently I am the founder of [Backdrop](backdrop.so) — our goal is to build a decentralized protocol for professional networks. In short, we want to build a core piece of digital infrastructure that helps people create amazing things together.
+Currently I am the founder of [Backdrop](https://backdrop.so/) — our goal is to build a decentralized protocol for professional networks. In short, we want to build a core piece of digital infrastructure that helps people create amazing things together.
 
 Prior to Backdrop I led product at ResearchGate, and Feastly before that. And prior to tech I studied multiple sclerosis in labs at UCSF and Johns Hopkins.
 
